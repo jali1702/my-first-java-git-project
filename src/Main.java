@@ -7,7 +7,7 @@ public class Main {
 		int value = random.nextInt(21);
 		
 		if (value % 2 == 0) {
-			System.out.println("The number " + value + " is even!");
+			System.out.println("The number " + value + " is even! :) ");
 			
 		}else {
 			System.out.println("The number " + value + " is odd! :) ");
