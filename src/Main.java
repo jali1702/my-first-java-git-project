@@ -10,7 +10,7 @@ public class Main {
 			System.out.println("The number " + value + " is even!");
 			
 		}else {
-			System.out.println("The number " + value + " is odd!");
+			System.out.println("The number " + value + " is odd! :) ");
 		}
 
 	}
